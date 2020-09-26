@@ -1,0 +1,10 @@
+C:\Users\abraf\Desktop\Nowy folder\Raport domowych wydatków\bin\Debug\Raport domowych wydatków.exe.config
+C:\Users\abraf\Desktop\Nowy folder\Raport domowych wydatków\bin\Debug\Raport domowych wydatków.exe
+C:\Users\abraf\Desktop\Nowy folder\Raport domowych wydatków\bin\Debug\Raport domowych wydatków.pdb
+C:\Users\abraf\Desktop\Nowy folder\Raport domowych wydatków\obj\Debug\Raport domowych wydatków.csprojAssemblyReference.cache
+C:\Users\abraf\Desktop\Nowy folder\Raport domowych wydatków\obj\Debug\Raport_domowych_wydatków.Form1.resources
+C:\Users\abraf\Desktop\Nowy folder\Raport domowych wydatków\obj\Debug\Raport_domowych_wydatków.Properties.Resources.resources
+C:\Users\abraf\Desktop\Nowy folder\Raport domowych wydatków\obj\Debug\Raport domowych wydatków.csproj.GenerateResource.cache
+C:\Users\abraf\Desktop\Nowy folder\Raport domowych wydatków\obj\Debug\Raport domowych wydatków.csproj.CoreCompileInputs.cache
+C:\Users\abraf\Desktop\Nowy folder\Raport domowych wydatków\obj\Debug\Raport domowych wydatków.exe
+C:\Users\abraf\Desktop\Nowy folder\Raport domowych wydatków\obj\Debug\Raport domowych wydatków.pdb
